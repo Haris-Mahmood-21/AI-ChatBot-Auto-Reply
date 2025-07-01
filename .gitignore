@@ -1,0 +1,9 @@
+# Secrets
+config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
